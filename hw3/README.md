@@ -1,4 +1,4 @@
-## HOMEWORK 4: Logistic Regression
+## HOMEWORK 3: Logistic Regression
 
 ### Programming
 
