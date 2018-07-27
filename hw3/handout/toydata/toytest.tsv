@@ -1,0 +1,16 @@
+all	O
+flights	O
+from	O
+washington	B-fromloc.city_name
+to	O
+boston	B-toloc.city_name
+
+what	O
+kind	O
+of	O
+ground	O
+transportation	O
+is	O
+available	O
+in	O
+denver	B-city_name

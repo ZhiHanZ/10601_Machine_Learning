@@ -1,0 +1,15 @@
+what	O
+is	O
+the	O
+arrival	B-flight_time
+time	I-flight_time
+in	O
+san	B-fromloc.city_name
+francisco	I-fromloc.city_name
+for	O
+the	O
+DIGITDIGITDIGIT	B-depart_time.time
+am	I-depart_time.time
+flight	O
+leaving	O
+washington	B-fromloc.city_name
